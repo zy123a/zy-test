@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="warn">
+
+    <Properties>
+        <Property name="log_collect_path">/Users/zhengyin</Property>
+    </Properties>
+
+    <appenders>
+        <Console name="stdout" target="SYSTEM_OUT">
+            <PatternLayout pattern="%5p [%t] %d{yyyy-MM-dd HH:mm:ss.SSS} %l %m %n"/>
+        </Console>
+
+        <RollingRandomAccessFile name="info"
+                                 fileName="${log_collect_path}/info.log"
+                                 filePattern="${log_collect_path}/info.log.%d{yyyy-MM-dd}">
+            <PatternLayout
+                    pattern="%5p [%t] %d{yyyy-MM-dd HH:mm:ss.SSS} %l %m %n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="100 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="20"/>
+        </RollingRandomAccessFile>
+
+    </appenders>
+    <loggers>
+        <root level="info" >
+            <appender-ref ref="stdout"/>
+            <appender-ref ref="info"/>
+        </root>
+    </loggers>
+</configuration>
