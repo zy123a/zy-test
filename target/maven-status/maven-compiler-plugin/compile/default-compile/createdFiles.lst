@@ -1,0 +1,8 @@
+com/zy/rabbitMq/DirectExchangReceive_error.class
+com/zy/rabbitMq/Receive.class
+com/zy/rabbitMq/DirectExchangReceive_info.class
+com/zy/rabbitMq/DirectExchangSend.class
+com/zy/rabbitMq/Send.class
+com/zy/controller/TestController.class
+com/zy/rabbitMq/FanoutExchangSend.class
+com/zy/rabbitMq/FanoutExchangReceive.class

@@ -1,0 +1,8 @@
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/DirectExchangSend.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/FanoutExchangReceive.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/Receive.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/DirectExchangReceive_error.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/controller/TestController.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/DirectExchangReceive_info.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/FanoutExchangSend.java
+/Users/zhengyin/workspace/zy-test/src/main/java/com/zy/rabbitMq/Send.java
