@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../cambridge/trip-mdr-server/src/main/profiles/cambridgedev/config/spring/local/appcontext-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/base/dal/mysql-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/base/spring/thriftclient/spring-thrift-client-ordercenter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/online/dal/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/online/spring/spring-out-serv.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/staging/dal/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/staging03/dal/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/api/scs/order/BriefOrderQueryBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/api/scs/order/advertisement/AdvertisementHanderBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/api/scs/order/advertisement/AdvertisementImp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/api/scs/order/advertisement/bean/AdRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/api/scs/paycenter/PayCenterBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/orderclose/OrderCloseChainHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/orderclose/OrderCloseChainhandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/orderclose/OrderCloseEventSendHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/orderclose/realizeframe/AbstactChainHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirm/PayAnswer2OrderCenterHelper.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVtBbupIpHKjczWI0LCq" />
+                <option name="line" value="24" />
+                <option name="message" value="Make the &quot;LOGGER&quot; logger private static final." />
+                <option name="ruleKey" value="squid:S1312" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/PayConfirmFailClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/PayConfirmFailRefundBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/observer/Observer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/observer/OrderPlatformObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/observer/PackagePlatformObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/observer/RefundObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/observer/ResourceReturnObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/subject/PayConfirmFailSubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/payconfirmfail/subject/Subject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/refund/eventdriven/CodeGenerateFailRefundListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-biz/src/main/java/com/meituan/service/mobile/meilv/biz/refund/eventdriven/PayConfirmFailRefundListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-insurance/web/src/main/java/com/meituan/tickettrade/insurance/controller/InsuranceProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/PayNoticeAsynHandleBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderclose/OrderCloseFollowWorkBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/rhone/SupplierPayNotifyHandleBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/failover/PayConfrimFailSwitch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/failover/PayNotifyRiskSwitch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/riskControl/RiskControlDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/riskControl/bean/RiskControlRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-dal/src/main/java/com/meituan/trip/ordercenter/dal/bean/PayBalanceRelevantDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-dal/src/main/java/com/meituan/trip/ordercenter/dal/bean/PayBalanceRelevantDo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-dal/src/main/java/com/meituan/trip/ordercenter/dal/mapper/PayBalanceRelevantMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-dal/src/main/resources/dal/xmlmapper/PayBalanceRelevanteMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/balance/Balance2PayCenterExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/pay/callback/confirm/RiskControlPayConfirmProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/pay/callback/strategy/FirstPaySuccessStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/pay/callback/strategy/PayTimeoutStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/pay/callback/strategy/TwicePayStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/repository/UnityTradeDataPersistence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/service/BizPayConfirm2TPService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/validator/permission/OrderStatusModifyPermissionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/listener/reverse/OrderReverseByRefundServerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/thriddepend/riskcontrol/RiskControlBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/thriddepend/riskcontrol/request/BaseRiskControlRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/web/biz/PayCenterCallbackController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/resources/base/dal/mysql-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/resources/online/dal/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-trade-center/domain/order/src/main/java/com/meituan/trip/tradecenter/domain/order/core/logic/push/OrderCenterPushLogicUnit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-trade-center/domain/order/src/main/java/com/meituan/trip/tradecenter/domain/order/core/logic/validate/riskcontrol/request/TicketRiskControlRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-trade-center/domain/order/src/main/java/com/meituan/trip/tradecenter/domain/order/core/logic/validate/riskcontrol/request/TicketRiskControlRequestBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-09-08-状态模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-09-22-策略模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-10-17-代理模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-6-26-责任链模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-6-28-观察者模式">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-6-28-观察者模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-7-11-命令模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-7-17-模板模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/design_mode/2017-7-20-装饰者模式.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/java/2017-7-17-Java的Executor框架和线程池实现原理.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/java/2017-9-15-Guava ListenableFuture实现异步调用">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/css/bootstrap.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/css/codeboy.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/css/default.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/VMTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/design/mode/respositychain/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example01/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example01/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example01/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example01/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example01/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example02/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example02/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example02/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example01/example02/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example02/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example02/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example02/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/chainofresponsibility/example02/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/Command.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/DropFan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/DropLight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/Fan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/Light.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/LightCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/NoCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/OffFanCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/OffLightCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/OnFanCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/OnLightCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/RemoteControl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/commandmode/UnifyCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/Menu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/MenuComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/MenuItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/NullIterator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/composite/Waitress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/Beverage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/Decorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/MilkDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/SugarDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/Tea.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/decoratormode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/BreakfastMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/LunchMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/LunchMenuIterater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/Menu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/Waitress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/Observer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/SecondDisplay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/StaticsDisplay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/Subject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/Weather.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/WeatherData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/天气预报类图.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/dynamicProxy/DynamicProxyClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/dynamicProxy/DynamicProxyHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/forceProxy/ForceProxyClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/forceProxy/GamePlayerV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/forceProxy/GamePlayerV2Proxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/forceProxy/IGamePlayerV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/generalProxy/GamePlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/generalProxy/GamePlayerProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/generalProxy/GeneralProxyClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/generalProxy/IGamePlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/ChainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/HTMLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/Handler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/ManageHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/MessageFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/TestFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/respositychain/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/singletonmode/SingletonRelize1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/singletonmode/SingletonRelize2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/CumballMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/HasQuarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/NoQuarter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/SoldOutState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/SoldState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/statemode/WinnerState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/strategy/InsertSortStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/strategy/SelectSortStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/strategy/SortStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/strategy/StrategyContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/strategy/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/templatemode/AudiCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/templatemode/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/templatemode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/templatemode/VWCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/java/guava/GuavaTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/proxy/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/B.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/ExecutorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/TestThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -6,27 +6,32 @@
     </Properties>
 
     <appenders>
+        <!--输出日志到控制台-->
         <Console name="stdout" target="SYSTEM_OUT">
             <PatternLayout pattern="%5p [%t] %d{yyyy-MM-dd HH:mm:ss.SSS} %l %m %n"/>
         </Console>
 
+        <!--输出日志到指定位置，appender为翻滚-->
         <RollingRandomAccessFile name="info"
                                  fileName="${log_collect_path}/info.log"
                                  filePattern="${log_collect_path}/info.log.%d{yyyy-MM-dd}">
             <PatternLayout
                     pattern="%5p [%t] %d{yyyy-MM-dd HH:mm:ss.SSS} %l %m %n"/>
             <Policies>
+                <!--默认一天一翻滚-->
                 <TimeBasedTriggeringPolicy/>
+                <!--当日志文件大于100翻滚-->
                 <SizeBasedTriggeringPolicy size="100 MB"/>
             </Policies>
+            <!--当日志文件超过了20个开始删除-->
             <DefaultRolloverStrategy max="20"/>
         </RollingRandomAccessFile>
-
     </appenders>
     <loggers>
         <root level="info" >
             <appender-ref ref="stdout"/>
             <appender-ref ref="info"/>
         </root>
+
     </loggers>
 </configuration>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.meituan.trip.shield:trip-shield-api:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meituan/trip/shield/trip-shield-api/1.0.0-SNAPSHOT/trip-shield-api-1.0.0-20170731.041356-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meituan/trip/shield/trip-shield-api/1.0.0-SNAPSHOT/trip-shield-api-1.0.0-20170731.041356-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/meituan/trip/shield/trip-shield-api/1.0.0-SNAPSHOT/trip-shield-api-1.0.0-20170731.041356-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

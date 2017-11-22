@@ -16,6 +16,8 @@
         <typeHandler handler="com.zy.typehandle.MyStringTypeHandle" javaType="string" jdbcType="VARCHAR"/>
     </typeHandlers>
 
+
+
     <mappers>
         <mapper resource="mapper/studentMapper.xml"/>
         <mapper resource="mapper/courseMapper.xml"/>

@@ -14,23 +14,20 @@ public class Test {
 //        Hello hello = (Hello)jdkProxy.getProxyCalss(sayHello);
 //        hello.say("zhengyin");
 //        hello.bye("zhengshuai");
-//        CGLIBProxy cglibProxy=new CGLIBProxy();
-//        Hello hello1=(Hello)cglibProxy.getProxyClass(SayHello.class);
-//        hello1.say("zhengyin");
-//        hello1.bye("zhengshuai");
+        CGLIBProxy cglibProxy=new CGLIBProxy();
+        Hello hello1=(Hello)cglibProxy.getProxyClass(SayHello.class);
+        hello1.say("zhengyin");
+        hello1.bye("zhengshuai");
         System.out.println(new Test().m());
-//        System.out.println();
+        System.out.println();
     }
 
     public String m() {
-        try {
-            int m = 1 / 0;
-            return "ddd";
-        } catch (Exception e) {
-            return "aaa";
-        } finally {
-            //            System.out.println("zhengyin");
-            return "ccc";
-        }
+//        new Callable<>() {
+//            public Object call() throws Exception {
+//                return null;
+//            }
+//        }).start();
+        return null;
     }
 }
