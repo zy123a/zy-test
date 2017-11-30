@@ -2,7 +2,6 @@ package com.zy.inferance;
 
 import com.zy.beans.Student;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Map;
@@ -14,7 +13,6 @@ import java.util.Map;
  * Date:2017/4/12
  * Time:11:19
  */
-@Repository
 public interface StudentInferace {
     public Student selectById(int id);
 

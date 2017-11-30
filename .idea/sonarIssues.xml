@@ -197,6 +197,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-server/src/main/java/com/meituan/trip/solution/controller/ticket/solution/FixDataController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-server/src/main/webapp/WEB-INF/page/ordercenter.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-server/src/test/java/TicketAfterPaidFixTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-ticket/src/main/java/com/meituan/trip/solution/ticket/biz/factory/FixDataFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-ticket/src/main/java/com/meituan/trip/solution/ticket/biz/fix/TicketAfterPaidFixByOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-dal/src/main/java/com/meituan/trip/ordercenter/dal/bean/PayBalanceRelevantDO.java">
           <value>
             <set />
@@ -297,6 +322,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-mock/hotel-order-fake-dao/src/main/resources/sqlmap/mybatis/mysql/environmentMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-mock/hotel-order-fake-domain/src/main/java/com/meituan/hotel/order/fake/domain/EnvironmentDo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-mock/hotel-order-fake-domain/src/main/java/com/meituan/hotel/order/fake/domain/enums/Type.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-mock/hotel-order-fake-service/src/main/java/com/meituan/hotel/order/fake/service/service/rhone/MockOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../trip-trade-center/domain/order/src/main/java/com/meituan/trip/tradecenter/domain/order/core/logic/push/OrderCenterPushLogicUnit.java">
           <value>
             <set />
@@ -367,6 +412,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../zy-blog/_posts/mybatis/2017-5-27-mybatis与spring的整合.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../zy-blog/css/bootstrap.css">
           <value>
             <set />
@@ -388,6 +438,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/VMTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/beans/Student.java">
           <value>
             <set />
           </value>
@@ -423,6 +478,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/ProjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/TestController.java">
           <value>
             <set />
           </value>
@@ -528,6 +588,51 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/TestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/AbstractCarModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/BMWCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/BMWCarBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/BenzCar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/BenzCarBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/Builder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/CarMode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/Director.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/buildermode/Test.java">
           <value>
             <set />
           </value>
@@ -757,6 +862,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/AbstractFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/ConcreteFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/ConcreteProduct1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/ConcreteProduct2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/TestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/iterator/BreakfastMenu.java">
           <value>
             <set />
@@ -823,6 +958,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/observermode/天气预报类图.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/AdviceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/ConcreteSubject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/DynamicProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/IAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/Subject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/SubjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/SubjectProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/Test.java">
           <value>
             <set />
           </value>
@@ -1017,6 +1192,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/inferance/StudentInferace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/java/guava/GuavaTest.java">
           <value>
             <set />
@@ -1042,12 +1222,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/JunitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/Test.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/TestThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/maybatis-map-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/mysql-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/springmvc-servlet.xml">
           <value>
             <set />
           </value>

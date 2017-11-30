@@ -17,4 +17,10 @@ public class Student {
     private String name;
     private String phone;
     private List<Course> courses;
+
+    @Override
+    public String toString() {
+        return "Student{" + "id=" + id + ", name='" + name + '\'' + ", phone='" + phone + '\'' + ", courses=" + courses
+                + '}';
+    }
 }

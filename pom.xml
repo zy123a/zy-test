@@ -8,17 +8,35 @@
   <name>app-zy Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
-
   <properties>
     <springmvc-version>2.0.0.M1</springmvc-version>
     <java.version>1.8</java.version>
   </properties>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>com.sankuai</groupId>
+        <artifactId>inf-bom</artifactId>
+        <version>1.2.13</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+
+      <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-test</artifactId>
+        <version>4.3.1.RELEASE</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.10</version>
-      <scope>test</scope>
+      <version>4.12</version>
     </dependency>
 
     <!--spring mvc 配置-->
@@ -27,17 +45,18 @@
       <artifactId>spring-webmvc</artifactId>
       <version>4.3.2.RELEASE</version>
     </dependency>
-    <dependency>
-      <groupId>org.apache.tomcat</groupId>
-      <artifactId>servlet-api</artifactId>
-      <version>6.0.48</version>
-    </dependency>
 
     <!--spring dao-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-dao</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>javax.servlet</groupId>
+          <artifactId>servlet-api</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -49,11 +68,9 @@
       <artifactId>spring-tx</artifactId>
       <version>4.0.1.RELEASE</version>
     </dependency>
-
     <dependency>
-      <groupId>com.meituan.lvyou.trade</groupId>
-      <artifactId>tradecenter-event-api</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-test</artifactId>
     </dependency>
 
     <!--代理-->
@@ -152,6 +169,31 @@
       <artifactId>fastjson</artifactId>
       <version>1.1.46.sec01</version>
     </dependency>
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-core-asl</artifactId>
+      <version>1.9.12</version>
+    </dependency>
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>1.9.12</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-annotations</artifactId>
+      <version>2.1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>2.1.4</version>
+    </dependency>
 
     <!--tomcat-->
     <dependency>
@@ -166,8 +208,6 @@
     </dependency>
 
   </dependencies>
-
-
 
 
   <build>

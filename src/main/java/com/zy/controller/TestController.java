@@ -6,6 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.HashMap;
@@ -31,10 +32,11 @@ public class TestController {
         return "go";
     }
 
-    @RequestMapping(value = "/api/student")
+    @RequestMapping(value = "/api/student" , method= RequestMethod.GET,produces = "application/json;charset=UTF-8")
     @ResponseBody
-    public Student getStudent() {
-        Student student=studentInferace.selectById(1);
+    public Student getStudent(int id) {
+        Student student=studentInferace.selectById(id);
+//        log.info("查询结果："+student);
         return student;
     }
 
