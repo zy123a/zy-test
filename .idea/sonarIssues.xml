@@ -962,6 +962,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/prototype_mode/ConcretePrototype.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/prototype_mode/PrototypeInferance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/prototype_mode/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/prototype_mode/prototypeInferance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/proxy/commonframework/AdviceImpl.java">
           <value>
             <set />
