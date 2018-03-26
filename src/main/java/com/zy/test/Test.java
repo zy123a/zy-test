@@ -2,7 +2,10 @@ package com.zy.test;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.Date;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 /**
  * Desc:
@@ -17,13 +20,21 @@ public class Test {
 //    直接获取slf4j的logger对象进行日志的输出
 //    private static final Logger log = LoggerFactory.getLogger(Test.class);
 
+    private static ExecutorService executorService = Executors.newFixedThreadPool(2);
+
     public static void main(String[] args) {
-        log.info("测试info日志输出");
-        log.warn("测试warn日志输出");
-        log.error("测试error日志输出");
-        long i=1500369935000l;
-        Date date = new Date(i);
-        System.out.println(date.toString());
+//        System.out.println(Integer.toBinaryString(Integer.MAX_VALUE));
+        try {
+            Future future=executorService.submit(new Callable<Void>() {
+                public Void call() throws Exception {
+                    System.out.println("mm");
+                    throw new Exception();
+                }
+            });
+            future.get();
+        } catch (Exception e) {
+            System.out.println("铺货异常");
+        }
     }
 }
 

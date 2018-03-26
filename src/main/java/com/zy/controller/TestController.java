@@ -23,10 +23,12 @@ import java.util.Map;
 @Controller
 @Slf4j
 public class TestController {
+
+
     @Autowired
     private StudentInferace studentInferace;
 
-    @RequestMapping(value = "/api/zy", produces = "text/html;charset=UTF-8")
+    @RequestMapping(value = "/api/zy", method= RequestMethod.GET,produces = "text/html;charset=UTF-8")
     public String getHead() {
         log.info("郑印log");
         return "go";

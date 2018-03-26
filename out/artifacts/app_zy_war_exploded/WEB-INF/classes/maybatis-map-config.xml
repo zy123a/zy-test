@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <setting name="cacheEnabled" value="false"/>
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <setting name="proxyFactory" value="CGLIB"></setting>
+    </settings>
+    <typeAliases>
+        <typeAlias type="com.zy.beans.Student" alias="student"/>
+        <typeAlias type="com.zy.beans.Course" alias="course"/>
+    </typeAliases>
+
+    <typeHandlers>
+        <typeHandler handler="com.zy.typehandle.MyStringTypeHandle" javaType="string" jdbcType="VARCHAR"/>
+    </typeHandlers>
+
+    <!--<mappers>-->
+        <!--<mapper resource="mapper/studentMapper.xml"/>-->
+        <!--<mapper resource="mapper/courseMapper.xml"/>-->
+        <!--&lt;!&ndash;<package name="com.zy.mapper"/>&ndash;&gt;-->
+    <!--</mappers>-->
+
+</configuration>

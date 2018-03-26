@@ -54,7 +54,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.2.RELEASE" />
           <element id="module-output" name="app-zy" />
-          <element id="library" level="project" name="lib" />
           <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:3.3.4" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.2.RELEASE" />
@@ -84,9 +83,10 @@
           <element id="library" level="project" name="Maven: cglib:cglib:2.2.2" />
           <element id="library" level="project" name="Maven: asm:asm:3.3.1" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.1.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.1.4" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="app-zy/web/Web" />
     </root>
   </artifact>
 </component>

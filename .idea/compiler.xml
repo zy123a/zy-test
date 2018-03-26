@@ -10,8 +10,8 @@
         <module name="app-zy" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="app-zy" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="app-zy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
