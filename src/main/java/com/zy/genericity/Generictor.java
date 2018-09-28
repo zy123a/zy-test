@@ -3,7 +3,7 @@ package com.zy.genericity;
 /**
  * Desc:类生成器接口
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/6/11
  * Time:10:52
  */

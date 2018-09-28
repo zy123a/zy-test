@@ -58,6 +58,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/java/com/meituan/service/mobile/meilv/aop/RequestAttributeArgumentResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/java/com/meituan/service/mobile/meilv/controller/order/MtpRescheduleOrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hermes-ticket/meilv-app/src/main/resources/base/dal/mysql-datasource.xml">
           <value>
             <set />
@@ -226,6 +236,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../hermes-ticket/ticket-insurance-auth/src/main/java/com/meituan/service/mobile/trade/ticket/insurance/ContextParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-insurance/web/src/main/java/com/meituan/tickettrade/insurance/controller/InsuranceProductController.java">
           <value>
             <set />
@@ -241,7 +256,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/main/java/com/meituan/lvyou/ticket/trade/order/controller/PriceStockController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/main/java/com/meituan/lvyou/ticket/trade/order/controller/TicketOrderQueryAdController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/main/java/com/meituan/lvyou/ticket/trade/order/facade/PriceStockFacade.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/main/java/com/meituan/lvyou/ticket/trade/order/fix/NotifyPandoraFixController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/main/java/com/meituan/lvyou/ticket/trade/order/test/TestQueryController.java">
           <value>
             <set />
           </value>
@@ -276,7 +311,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/test/java/com/meituan/lvyou/ticket/trade/order/utils/DesUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/api/src/test/java/com/meituan/service/mobile/dao/MtpOrderExtendsMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/EvaluateBiz.java">
           <value>
             <set />
           </value>
@@ -296,6 +341,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/compensation/handler/PromotionNotifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/dealbuy/DealInfoModifyQueryBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/dealbuy/PartnerDealBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/dealbuy/SendOrderHandleBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/dealbuy/dealInfo/DealInfoModifyQueryBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/dealbuy/dealInfo/DealModifyInfoBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/logic/unit/persistence/OrderExtendsPersistenceLogicUnit.java">
           <value>
             <set />
@@ -306,7 +381,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderdetail/OrderDetailButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderdetail/UserOrderDetailBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderdetail/bean/RecommendInfoItemVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderdetail/intelligentcase/IntelligentCaseQueryOrderBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/orderdetail/response/OrderDetailResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/PandoraBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/PromotionBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/AbstractPandoraParamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/CommentToCashBackParamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/CommentToRebateParamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/PandoraNotifyParamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/PandoraParamDirector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/promotion/param/PaySuccessPandoraParamModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/rhone/SupplierPayNotifyHandleBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/biz/voucherrelease/NotifyPandoraJobProcessor.java">
           <value>
             <set />
           </value>
@@ -316,7 +461,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/listener/pay_confirm_success/PayConfirmSuccessEventListener4NotifyPandora.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/thrift/impl/paynotice/PayResultNoticeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/biz-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/thrift/impl/query/TradeTicketQueryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/commons/src/main/java/com/meituan/lvyou/ticket/trade/order/bean/constants/MonitorConsts.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/dao/bean/BookInfoDO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/failover/DegradationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/failover/PandoraServiceSwitch.java">
           <value>
             <set />
           </value>
@@ -327,6 +502,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/failover/PayNotifyRiskSwitch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/data-access-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/promotion/PromotionDao.java">
           <value>
             <set />
           </value>
@@ -347,6 +527,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-order/service-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/fenxiao/FenXiaoOrderPushService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/service-layer/src/main/java/com/meituan/lvyou/ticket/trade/order/dependencies/promotion/service/OrderPromotionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/ticket-trade-order-sdk/src/main/java/com/meituan/lvyou/ticket/trade/order/client/service/query/ITradeTicketQueryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/ticket-trade-order-sdk/src/main/java/com/meituan/lvyou/ticket/trade/order/client/service/query/bean/IntelligentOrderListResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ticket-trade-order/ticket-trade-order-sdk/src/main/java/com/meituan/lvyou/ticket/trade/order/client/service/query/bean/detail/OrderDetailInfo.java">
           <value>
             <set />
           </value>
@@ -377,6 +577,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ticket-trade-refund-solution/solution-ticket/src/main/java/com/meituan/trip/solution/ticket/biz/fix/TicketAfterPaidFixByOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-deal-snapshot/trip-deal-snapshot-app/src/main/resources/online/out/columbus-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-deal-snapshot/trip-deal-snapshot-app/src/main/resources/online/out/spring-out-service.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-deal-snapshot/trip-deal-snapshot-biz/src/main/java/com/meituan/trip/ordercenter/snapshot/biz/snapshot/impl/SnapshotServiceImpl.java">
           <value>
             <set />
           </value>
@@ -531,6 +746,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/query/QueryInfoBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/repository/UnityTradeDataPersistence.java">
           <value>
             <set />
@@ -547,6 +767,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/biz/validator/permission/OrderStatusModifyPermissionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/collect/CollectService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/BusinessPromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/DynamicPackagePromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/FlightXPromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/JingJiuPromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/TicketPromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/biz/promotion/param/TravelPromotionParamBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../trip-order-center/ordercenter-server/src/main/java/com/meituan/trip/ordercenter/server/fund/spi/pandora/PromotionSPI.java">
           <value>
             <set />
           </value>
@@ -986,6 +1246,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/concurrent/ConcurrentMapTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/controller/ChainFilter.java">
           <value>
             <set />
@@ -1406,6 +1671,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/AddExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/Caculate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/Expression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/MinusExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/explainmode/VarExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/AbstractFactory.java">
           <value>
             <set />
@@ -1432,6 +1727,56 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/factoryMothodMode/TestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/AddSymbolExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/Calculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/Express.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/SubSymbolExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/SymbolExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/VarExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/common/AbstractExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/common/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/common/NonterminalExpress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/designmode/interpretermode/common/TerminalExpress.java">
           <value>
             <set />
           </value>
@@ -1867,6 +2212,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/B.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/zy/test/DateTimetest.java">
           <value>
             <set />
           </value>

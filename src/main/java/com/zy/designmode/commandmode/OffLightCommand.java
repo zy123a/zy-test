@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/7/11
  * Time:19:43
  */

@@ -3,7 +3,7 @@ package com.zy.designmode.chainofresponsibility.example01;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/6/25
  * Time:19:53
  */

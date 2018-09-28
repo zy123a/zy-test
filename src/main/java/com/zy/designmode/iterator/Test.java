@@ -3,7 +3,7 @@ package com.zy.designmode.iterator;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/8/4
  * Time:12:33
  */

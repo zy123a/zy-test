@@ -3,7 +3,7 @@ package com.zy.designmode.observermode;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/7/2
  * Time:22:04
  */

@@ -3,7 +3,7 @@ package com.zy.genericity;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/6/11
  * Time:10:54
  */

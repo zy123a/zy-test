@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Desc:具体状态对象，将行为委托给具体的状态
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/8/24
  * Time:11:27
  */

@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2018/2/6
  * Time:10:37
  */
@@ -21,7 +21,7 @@ public class SpringMvcController implements EnvironmentAware{
     @RequestMapping(value = "/api/envir", produces = "text/html;charset=UTF-8")
     public String getHead(Model model) {
         model.addAttribute("go", "gogogo");
-        return "zhengyin";
+        return "XXX";
     }
 
     private Environment environment = null;

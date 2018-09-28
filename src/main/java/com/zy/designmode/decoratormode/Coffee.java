@@ -3,7 +3,7 @@ package com.zy.designmode.decoratormode;
 /**
  * Desc:基础组件，原味Coffee
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/9/1
  * Time:17:36
  */

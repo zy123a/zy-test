@@ -5,7 +5,7 @@ import com.rabbitmq.client.*;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/1/5
  * Time:17:47
  */

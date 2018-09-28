@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/5/18
  * Time:11:05
  */

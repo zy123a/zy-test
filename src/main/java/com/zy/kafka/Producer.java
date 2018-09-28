@@ -7,7 +7,7 @@ import java.util.Properties;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2018/2/3
  * Time:19:53
  */

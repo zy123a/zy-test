@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2018/3/16
  * Time:21:50
  */
@@ -20,11 +20,11 @@ public class CompletableFutureTest {
         CompletableFuture<String> future = CompletableFuture.supplyAsync(() -> {
             try {
                 Thread.sleep(20000);
-                System.out.println("zhengyin");
+                System.out.println("XXX");
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            return "zhengyin";
+            return "XXX";
         });
         try {
             future.complete("100");

@@ -10,7 +10,7 @@ public class SAXParsingOfXml {
         SAXParserFactory saxParserFactory=SAXParserFactory.newInstance();
 //        创建SAX解析
         SAXParser saxParser=saxParserFactory.newSAXParser();
-        File file = new File("/Users/zhengyin/workspace/zy-test/src/main/resources/xmlParsing.xml");
+        File file = new File("/Users/XXX/workspace/zy-test/src/main/resources/xmlParsing.xml");
 //        解析文档
         saxParser.parse(file,new SAXHandle());
     }

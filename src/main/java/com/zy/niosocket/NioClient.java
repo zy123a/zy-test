@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2018/2/7
  * Time:16:27
  */
@@ -50,7 +50,7 @@ public class NioClient {
                             if (key.isWritable()) {
                                 SocketChannel socketChannel = (SocketChannel) key.channel();
                                 ByteBuffer byteBuffer = ByteBuffer
-                                        .wrap(new String("zhengyin" + new Random(2).nextInt()).getBytes());
+                                        .wrap(new String("XXX" + new Random(2).nextInt()).getBytes());
                                 socketChannel.write(byteBuffer);
                                 key.interestOps(SelectionKey.OP_ACCEPT);
                             }

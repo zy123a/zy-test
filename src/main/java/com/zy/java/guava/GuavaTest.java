@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/9/15
  * Time:12:35
  */

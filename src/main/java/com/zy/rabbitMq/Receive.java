@@ -8,7 +8,7 @@ import com.rabbitmq.client.QueueingConsumer;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2016/12/30
  * Time:16:46
  */

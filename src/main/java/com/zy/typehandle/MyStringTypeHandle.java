@@ -15,7 +15,7 @@ import java.sql.SQLException;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/4/17
  * Time:11:58
  */

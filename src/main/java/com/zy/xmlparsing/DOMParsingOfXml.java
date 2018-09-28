@@ -14,7 +14,7 @@ public class DOMParsingOfXml {
         DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
 //        创建Dom文件构造器
         DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
-        File file = new File("/Users/zhengyin/workspace/zy-test/src/main/resources/xmlParsing.xml");
+        File file = new File("/Users/XXX/workspace/zy-test/src/main/resources/xmlParsing.xml");
 //        解析文件得到dom类
         Document document = documentBuilder.parse(file);
 //        依据标签名获得该名称的所有节点

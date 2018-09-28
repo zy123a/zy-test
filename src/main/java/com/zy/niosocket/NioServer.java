@@ -14,7 +14,7 @@ import java.util.Set;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2018/2/7
  * Time:16:02
  */
@@ -57,7 +57,7 @@ public class NioServer {
                 }
                 if (key.isWritable()) {
                     SocketChannel socketChannel = (SocketChannel) key.channel();
-                    ByteBuffer byteBuffer = ByteBuffer.wrap(new String("zhengyin"+ new Random(2).nextInt()).getBytes());
+                    ByteBuffer byteBuffer = ByteBuffer.wrap(new String("XXX"+ new Random(2).nextInt()).getBytes());
                     while (byteBuffer.hasRemaining()) {
                         socketChannel.write(byteBuffer);
                     }

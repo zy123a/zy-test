@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * Desc:自动售货机
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/8/24
  * Time:11:32
  */

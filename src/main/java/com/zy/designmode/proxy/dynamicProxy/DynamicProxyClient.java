@@ -8,7 +8,7 @@ import java.lang.reflect.Proxy;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/10/19
  * Time:17:36
  */
@@ -18,7 +18,7 @@ public class DynamicProxyClient {
         DynamicProxyHandle dynamicProxyHandle = new DynamicProxyHandle(iGamePlayer);
         IGamePlayer proxy = (IGamePlayer) Proxy
                 .newProxyInstance(iGamePlayer.getClass().getClassLoader(), iGamePlayer.getClass().getInterfaces(), dynamicProxyHandle);
-        proxy.login("zhengyin", "134138");
+        proxy.login("XXX", "134138");
         proxy.killBoss();
         proxy.upgrade();
     }

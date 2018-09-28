@@ -5,7 +5,7 @@ import java.util.Iterator;
 /**
  * Desc:泛型和迭代器的使用
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/6/11
  * Time:10:53
  */

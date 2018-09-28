@@ -3,7 +3,7 @@ package com.zy.designmode.singletonmode;
 /**
  * Desc:这种实现方法，线程不安全
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/11/22
  * Time:20:25
  */

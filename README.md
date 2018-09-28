@@ -6,5 +6,5 @@
 >http://www.baidu.com
 
 <code>pulic static void main(String[] args){<br/>
-    System.out.println("zhengyin");
+    System.out.println("XXX");
 }</code>

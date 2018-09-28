@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/7/2
  * Time:22:00
  */

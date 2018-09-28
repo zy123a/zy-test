@@ -3,7 +3,7 @@ package com.zy.designmode.decoratormode;
 /**
  * Desc:奶装饰者
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/9/1
  * Time:17:45
  */

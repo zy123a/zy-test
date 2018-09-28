@@ -16,7 +16,7 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>com.sankuai</groupId>
+        <groupId>com.XXX</groupId>
         <artifactId>inf-bom</artifactId>
         <version>1.2.13</version>
         <type>pom</type>
@@ -250,15 +250,15 @@
 
   <distributionManagement>
     <repository>
-      <id>meituan-nexus-releases</id>
+      <id>XXX-nexus-releases</id>
       <name>Meituan Nexus Releases Repository</name>
-      <url>http://maven.sankuai.com/nexus/content/repositories/releases/</url>
+      <url>http://maven.XXX.com/nexus/content/repositories/releases/</url>
     </repository>
 
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <name>Meituan Nexus Snapshots Repository</name>
-      <url>http://maven.sankuai.com/nexus/content/repositories/snapshots/</url>
+      <url>http://maven.XXX.com/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 

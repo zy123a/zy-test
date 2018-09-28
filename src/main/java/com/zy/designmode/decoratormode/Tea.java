@@ -3,7 +3,7 @@ package com.zy.designmode.decoratormode;
 /**
  * Desc:基础组件 茶叶  tea
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/9/1
  * Time:17:39
  */

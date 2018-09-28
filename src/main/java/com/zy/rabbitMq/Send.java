@@ -7,7 +7,7 @@ import com.rabbitmq.client.ConnectionFactory;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2016/12/30
  * Time:16:36
  */

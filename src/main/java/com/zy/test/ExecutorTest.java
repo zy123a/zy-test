@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 /**
  * Desc:
  * ------------------------------------
- * Author:zhengyin@meituan.com
+ * Author:XXX
  * Date:2017/7/18
  * Time:17:16
  */
@@ -17,7 +17,7 @@ public class ExecutorTest {
     public static void main(String[] args) {
         service.submit(new Runnable() {
             public void run() {
-                System.out.println("zhengyin");
+                System.out.println("XXX");
             }
         });
     }

@@ -2,7 +2,7 @@
 <configuration status="warn">
 
     <Properties>
-        <Property name="log_collect_path">/Users/zhengyin</Property>
+        <Property name="log_collect_path">/Users/XXX</Property>
     </Properties>
 
     <appenders>
